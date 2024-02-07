@@ -9,9 +9,9 @@ function Welcome4() {
                         <div className="col-md-10 col-lg-9">
                             <div className="section-sub-title center">
                                 <article className="section-title-body">
-                                        <h1 className="head-title">We care about our all <span>clients</span> and can make their <span>life</span> more easier !</h1>
+                                        <h1 className="head-title">Seeking to positively <span>impact</span> my community and <span>the world!</span></h1>
                                         <p className="head-text">
-                                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        I am a young man passionate about science and technology, I believe that for there to be true democracy and economic participation it is necessary that people and businesses can take advantage of the new tools available. I always look to the future with enthusiasm, seeking to contribute significantly.
                                         </p>
                                         <Link to='portfolio' className="btn-default  btn-move" smooth={false} duration={800}>Portfolio</Link>&nbsp;
                                         <Link to='contact' className="btn-default active btn-move t1" smooth={false} duration={800}>Contact</Link>
