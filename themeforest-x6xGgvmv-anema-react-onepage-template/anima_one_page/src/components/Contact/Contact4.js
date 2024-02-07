@@ -21,33 +21,16 @@ function Contact4() {
                             <div className="col-md-6">
                                 <div className="section-sub-title">
                                     <article className="section-title-body">
-                                        <h1 className="head-title">Meet with you </h1>
+                                        <h1 className="head-title">Contact </h1>
                                     </article>
                                 </div>
                                 <div className="widget-block dark">
-                                    <h4 className="widget-title"><i className="ion-pound"></i>MosaicDesign Studio</h4>
-                                    <h4 className="widget-title"><i className="ion-map"></i>Avanue street 255, Night Way, Paris, Franch</h4>
+                                    <h4 className="widget-title"><i className="ion-pound"></i>Pablo Huerta Software Developer</h4>
+                                    <h4 className="widget-title"><i className="ion-map"></i>Circuito Azucena 110, Col. Huerta Real, San Luis Potosí México</h4>
                                     <br/>
-                                    <FacebookShareButton url="https://youtu.be/6bytsvX6gAM" 
-                                    quote= "test" hashtag="#react">
-                                        <FacebookIcon round={true} size={32}></FacebookIcon>
-                                    </FacebookShareButton>
-                                    &nbsp;
-                                    <PinterestShareButton url="https://www.pinterest.com/pin/665406913672282630/" media="https://assets.pinterest.com/ext/embed.html?id=665406913672282630">
-                                        <PinterestIcon round={true} size={32}></PinterestIcon>
-                                    </PinterestShareButton>    
-                                    &nbsp;
                                     <LinkedinShareButton url="https://youtu.be/6bytsvX6gAM" >
                                         <LinkedinIcon round={true} size={32}></LinkedinIcon>
-                                    </LinkedinShareButton>   
-                                    &nbsp; 
-                                    <TwitterShareButton url="https://youtu.be/6bytsvX6gAM">
-                                        <TwitterIcon round={true} size={32}></TwitterIcon>
-                                    </TwitterShareButton> 
-                                    &nbsp;   
-                                    <TelegramShareButton url="https://youtu.be/6bytsvX6gAM">
-                                        <TelegramIcon round={true} size={32}></TelegramIcon>
-                                    </TelegramShareButton>    
+                                    </LinkedinShareButton>     
                                 </div>
                                 <div className="row">
                                     <div className="col-lg-6">

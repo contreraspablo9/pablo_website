@@ -2,39 +2,39 @@ import React from 'react'
 const services = [
     {
         _id:'001',
-        classIcon:'ion-ios-pie-outline',
-        title:'Accountment',
-        text:'Ut magna aliqua enim ad ipsum dolor sit amet, con sectetur adipis icing minim veniam, quis nostrud'
+        classIcon:'ion-ios-monitor-outline',
+        title:'Resposive Websites',
+        text:'Create a modern website, that reflects your professionalism as a person or as an organization.'
     },
     {
         _id:'002',
-        classIcon:'ion-ios-printer-outline',
-        title:'Printing',
-        text:'Ut magna aliqua enim ad ipsum dolor sit amet, con sectetur adipis icing minim veniam, quis nostrud'
+        classIcon:'ion-ios-pie-outline',
+        title:'Business Data Management',
+        text:'Develop and implement a system to efficiently capture, process, store and report your business information.'
     },
     {
         _id:'003',
-        classIcon:'ion-ios-reverse-camera-outline',
-        title:'Photographic',
-        text:'Ut magna aliqua enim ad ipsum dolor sit amet, con sectetur adipis icing minim veniam, quis nostrud'
+        classIcon:'ion-ios-gear-outline',
+        title:'Process Automation',
+        text:'Automate the internal processes of your business, reduce costs and time for greater productivity.'
     },
     {
         _id:'004',
-        classIcon:'ion-ios-telephone-outline',
-        title:'Call Support',
-        text:'Ut magna aliqua enim ad ipsum dolor sit amet, con sectetur adipis icing minim veniam, quis nostrud'
+        classIcon:'ion-ios-pricetags-outline',
+        title:'E-Commerce Implementation',
+        text:'Forget physical limitations. Who says you can\'t sell to the whole country, the whole continent or the whole world?'
     },
     {
         _id:'005',
-        classIcon:'ion-ios-flask-outline',
-        title:'Creative Design',
-        text:'Ut magna aliqua enim ad ipsum dolor sit amet, con sectetur adipis icing minim veniam, quis nostrud'
+        classIcon:'ion-ios-film-outline',
+        title:'Content Management Systems',
+        text:'Do you need a website where it is essential to publish articles, photos or videos on a regular basis? Automate your content update processes'
     },
     {
         _id:'006',
-        classIcon:'ion-ios-settings',
-        title:'Powerful & Flexible',
-        text:'Ut magna aliqua enim ad ipsum dolor sit amet, con sectetur adipis icing minim veniam, quis nostrud'
+        classIcon:'ion-ios-briefcase-outline',
+        title:'IT Consulting Services',
+        text:'Consulting for all types of businesses and processes. Take advantage of new technologies so that your business is always at the forefront.'
     }
 ]
 function Service4() {
@@ -48,9 +48,9 @@ function Service4() {
                     <div className="container">
                             <div className="section-sub-title center">
                                 <article className="section-title-body">
-                                <h1 className="head-title">All best <span>Services</span> from Mosaic Design</h1>
+                                <h1 className="head-title">Empower your <span>Business: </span>Custom <span>Solutions</span> to Suit Your Needs</h1>
                                         <p className="head-text">
-                                            Woident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                            Customized options to explore and expand your business globally.
                                         </p>
                                 </article>
                             </div>

@@ -4,44 +4,23 @@ const portfolioAll = [
     {
         _id:'001',
         src:'img/preview/blog30.jpg',
-        title:'Wall decoration',
-        category:'Interior Design',
-        info:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum vel officiis perferendis libero assumenda mollitia maxime veniam at, maiores non neque, iusto error earum minima quidem adipisci. Ullam eius provident amet nulla quam dicta dolorum harum perspiciatis odio repudiandae fugit recusandae dolor, expedita voluptatibus in ab consequatur ratione facere porro'
+        title:'Traceability and quality validation system ',
+        category:'Project at SIIX EMS',
+        info:'The project consisted in developing an application to collect traceability information, as well as the results of the quality tests applied to the final product, directly from the testing machines in the production lines. The solution required consideration of numerous factors involved in the process, as well as the development of a very robust error handling system. At the end of the project, excellent results were obtained, which were reflected in the significant reduction of downtime in the production station involved.'
     },
     {
         _id:'002',
         src:'img/preview/blog31.jpg',
-        title:'Anema 3d Objects',
-        category:'3d Design',
-        info:'Rem ipsum dolor sit amet consectetur, adipisicing elit. Cum vel officiis perferendis libero assumenda mollitia maxime veniam at, maiores non neque, iusto error earum minima quidem adipisci. Ullam eius provident amet nulla quam dicta dolorum harum perspiciatis odio repudiandae fugit recusandae dolor, expedita voluptatibus in ab consequatur ratione facere porro'
+        title:'Network Infrastructure Manager',
+        category:'Project at Softtek',
+        info:'This system is a django application based on the open-source Netbox project. It was completely customized according to the client\'s needs, who required to efficiently and autonomously manage their network infrastructure resources. The main contributions to this project were the creation of different modules such as one to request new functionality requirements, bug reporting and change control. Automatic unit tests were implemented along with the deployment pipeline, customized notifications integrated with CISCO\'s Webex messaging system were added. Among other usual tasks such as bug fixes and updates.'
     },
     {
         _id:'003',
         src:'img/preview/blog32.jpg',
-        title:'Time is money',
-        category:'Graphic Design',
-        info:'Sit amet consectetur, adipisicing elit. Cum vel officiis perferendis libero assumenda mollitia maxime veniam at, maiores non neque, iusto error earum minima quidem adipisci. Ullam eius provident amet nulla quam dicta dolorum harum perspiciatis odio repudiandae fugit recusandae dolor, expedita voluptatibus in ab consequatur ratione facere porro'
-    },
-    {
-        _id:'004',
-        src:'img/preview/blog33.jpg',
-        title:'Coffee cup',
-        category:'Photo Design',
-        info:'Ypsum dolor sit amet consectetur, adipisicing elit. Cum vel officiis perferendis libero assumenda mollitia maxime veniam at, maiores non neque, iusto error earum minima quidem adipisci. Ullam eius provident amet nulla quam dicta dolorum harum perspiciatis odio repudiandae fugit recusandae dolor, expedita voluptatibus in ab consequatur ratione facere porro'
-    },
-    {
-        _id:'005',
-        src:'img/preview/blog34.jpg',
-        title:'Office Tools',
-        category:'Graphic Design',
-        info:'Dolor sit amet consectetur, adipisicing elit. Cum vel officiis perferendis libero assumenda mollitia maxime veniam at, maiores non neque, iusto error earum minima quidem adipisci. Ullam eius provident amet nulla quam dicta dolorum harum perspiciatis odio repudiandae fugit recusandae dolor, expedita voluptatibus in ab consequatur ratione facere porro'
-    },
-    {
-        _id:'006',
-        src:'img/preview/blog35.jpg',
-        title:'Breakfast Ready',
-        category:'3d Design',
-        info:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum vel officiis perferendis libero assumenda mollitia maxime veniam at, maiores non neque, iusto error earum minima quidem adipisci. Ullam eius provident amet nulla quam dicta dolorum harum perspiciatis odio repudiandae fugit recusandae dolor, expedita voluptatibus in ab consequatur ratione facere porro'
+        title:'Policy Validation System',
+        category:'Project at Codebay',
+        info:'This project consisted of an ETL system mounted on an Ubuntu server. The main objective was to create a series of scripts executed periodically to check a folder on an FTP server. In this folder the policy selling agents would upload their weekly sales reports for the system to scan, validate and upload the information. The system would also perform notification functions, error handling, backups and validation of business rules according to the particular characteristics of each type of policy.'
     }
 ]
 
@@ -54,9 +33,9 @@ function Portfolio3() {
                     <div className="container">
                     <div className="section-sub-title center">
                                 <article className="section-title-body">
-                                <h1 className="head-title">Our last <span>Projects</span> and works</h1>
+                                <h1 className="head-title">Most <span>relevant</span> Work <span>Experience</span></h1>
                                         <p className="head-text">
-                                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        Since 2020 Pablo has been involved in various projects ranging from IT related support and troubleshooting to the development of robust complete systems with high quality standards for the industrial and financial sector. He has worked hand in hand with large corporations in Mexico and USA.
                                         </p>
                                 </article>
                             </div>
