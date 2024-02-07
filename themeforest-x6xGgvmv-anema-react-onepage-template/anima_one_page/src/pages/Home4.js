@@ -2,6 +2,7 @@ import React from 'react';
 import Header4 from './../components/Header/Header4';
 import Welcome4 from './../components/Welcome/Welcome4';
 import About4 from './../components/About/About4';
+import Education4 from './../components/Education/Education4';
 import Service4 from './../components/Service/Service4';
 import Portfolio4 from './../components/Portfolio/Portfolio4';
 import Contact4 from './../components/Contact/Contact4';
@@ -17,8 +18,9 @@ function Home4() {
       </div>
       <Welcome4/>
       <About4/>
+      <Education4/>
+      <Portfolio4/>{/* work experience */}
       <Service4/>
-      <Portfolio4/>
       <Contact4/>
       <Map/>
       <Footer4/>

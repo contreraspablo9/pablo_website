@@ -21,13 +21,13 @@ export default class SimpleSlider4 extends Component {
             <div  className="full-screen-block">
                 <div className="sliderTitleBlock for-light">
                   <h3 className= "homeSliderTitleTop">About me</h3>
-                  <h1 className= "homeSliderTitle"> Tom Jackson <br/>Web <span>Designer</span> </h1>  
+                  <h1 className= "homeSliderTitle"> Pablo Huerta <br/>software <span>Dev</span> </h1>  
                 </div>
             </div>
             <div   className="full-screen-block">
                 <div className="sliderTitleBlock for-light">
-                  <h3 className= "homeSliderTitleTop">Creative Ideas</h3>
-                  <h1 className= "homeSliderTitle"> Unlock your <br/> <span>potential</span></h1>
+                  <h3 className= "homeSliderTitleTop">IT Solutions</h3>
+                  <h1 className= "homeSliderTitle">Empowering <br/> <span>your business</span></h1>
                 </div>
             </div>
         </Slider>
