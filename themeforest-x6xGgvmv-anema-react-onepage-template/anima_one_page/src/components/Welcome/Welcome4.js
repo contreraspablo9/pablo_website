@@ -3,7 +3,7 @@ import {Link} from 'react-scroll'
 function Welcome4() {
     return (
         <section>
-            <div className="block color-scheme-white light">
+            <div className="block color-scheme-2 light">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-md-10 col-lg-9">

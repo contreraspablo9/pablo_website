@@ -18,7 +18,7 @@ const portfolioAll = [
     {
         _id:'003',
         src:'img/preview/blog32.jpg',
-        title:'Policy Validation System',
+        title:'Insurance Policy Validation System',
         category:'Project at Codebay',
         info:'This project consisted of an ETL system mounted on an Ubuntu server. The main objective was to create a series of scripts executed periodically to check a folder on an FTP server. In this folder the policy selling agents would upload their weekly sales reports for the system to scan, validate and upload the information. The system would also perform notification functions, error handling, backups and validation of business rules according to the particular characteristics of each type of policy.'
     }
@@ -28,7 +28,7 @@ function Portfolio3() {
     return (
         <>
         <section  id="portfolio" className="light">
-                <div className="bg-light"></div>
+                <div className="bg-dark"></div>
                 <div className="block">
                     <div className="container">
                     <div className="section-sub-title center">

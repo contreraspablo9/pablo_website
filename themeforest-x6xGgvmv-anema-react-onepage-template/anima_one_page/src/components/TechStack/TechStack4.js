@@ -1,13 +1,11 @@
 import React from 'react'
-import bg_vide from '../../videos/bigway.mp4'
+import bg_image from '../../images/techstack.jpg'
 function TechStack4() {
     
     return (
         <>
             <section id="techstack" className="bg-non-fixed">
-            <video autoPlay loop muted className="bg_video">
-                <source src={bg_vide} type="video/mp4"></source>
-            </video>
+            <img src={bg_image} alt="Imagen de fondo" className="bg_image" />
             <div className="bg-inner-dark"></div>
             <div className="bg-50-r"></div>
             

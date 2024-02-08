@@ -4,7 +4,7 @@ function About1() {
     return (
         <>
             <section id="about" className="light">
-            <div className="bg-light"></div>
+            <div className="bg-dark"></div>
             <div className="block">
                 <div className="container">
                     <div className="row align-items-center  gx-5">
@@ -29,10 +29,10 @@ function About1() {
                                 <div className="about-img lax   lax_preset_slideY:3500:-400">
                                     <img alt="" className="img-fluid" src="img/preview/about2.jpg"/>
                                 </div>
-                                <div className="about-img-info widget-block dark mb-0">
+                                <div className="about-img-info widget-block light mb-0">
                                     <h4 className="widget-title dark">My Resume (CV) </h4>
                                     <p> Download resume</p>
-                                    <a href="www.google.com" className="btn-default btn-move active mb-0">Download</a>
+                                    <a href="cv_pablohuerta_sdev2024.pdf" className="btn-default btn-move active mb-0">Download</a>
                                 </div>
                             </div>
                             

@@ -12,7 +12,7 @@ function Navbar4() {
                             <div className="navbar-header">
                                 <Link to='home'  className="header-logo"  smooth={false} duration={800}>
                                     <span></span>
-                                    <img src={logo} alt="logo"/>
+                                    {/* <img src={logo} alt="logo"/> */}
                                 </Link>
                                 <button onClick={()=>setnavToggle(!navToggle)} type="button" className="navbar-toggle" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="icon-bar"></span>
