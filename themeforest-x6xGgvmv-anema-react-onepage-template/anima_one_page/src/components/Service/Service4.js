@@ -3,7 +3,7 @@ const services = [
     {
         _id:'001',
         classIcon:'ion-ios-monitor-outline',
-        title:'Resposive Websites',
+        title:'Responsive Websites',
         text:'Create a modern website, that reflects your professionalism as a person or as an organization.'
     },
     {
